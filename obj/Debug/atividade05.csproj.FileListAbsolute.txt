@@ -1,0 +1,7 @@
+C:\Users\emily.cntoledo\source\repos\atividade05\atividade05\obj\Debug\atividade05.csproj.AssemblyReference.cache
+C:\Users\emily.cntoledo\source\repos\atividade05\atividade05\obj\Debug\atividade05.csproj.CoreCompileInputs.cache
+C:\Users\emily.cntoledo\source\repos\atividade05\atividade05\bin\Debug\atividade05.exe.config
+C:\Users\emily.cntoledo\source\repos\atividade05\atividade05\bin\Debug\atividade05.exe
+C:\Users\emily.cntoledo\source\repos\atividade05\atividade05\bin\Debug\atividade05.pdb
+C:\Users\emily.cntoledo\source\repos\atividade05\atividade05\obj\Debug\atividade05.exe
+C:\Users\emily.cntoledo\source\repos\atividade05\atividade05\obj\Debug\atividade05.pdb
